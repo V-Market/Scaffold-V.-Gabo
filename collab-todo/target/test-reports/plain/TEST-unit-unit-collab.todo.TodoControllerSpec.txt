@@ -1,0 +1,10 @@
+Testsuite: collab.todo.TodoControllerSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 4,972 sec
+------------- Standard Output ---------------
+--Output from test something--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test something--
+------------- ---------------- ---------------
+
+Testcase: test something took 4,91 sec
